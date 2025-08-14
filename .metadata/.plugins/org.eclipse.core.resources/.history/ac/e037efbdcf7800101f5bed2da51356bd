@@ -1,0 +1,13 @@
+package com.subscriber.userservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SubscriberManagementPortalApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(UserServicePojectApplication.class, args);
+	}
+
+}

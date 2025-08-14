@@ -1,0 +1,5 @@
+package com.subscriber.paymentservice.entity;
+
+public class Payment {
+
+}

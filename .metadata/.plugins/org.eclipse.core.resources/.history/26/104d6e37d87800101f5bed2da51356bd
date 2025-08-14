@@ -1,0 +1,5 @@
+package com.subscriber.subscriptionservice.service;
+
+public interface SubscriptionService {
+
+}

@@ -1,0 +1,5 @@
+package com.subscriber.paymentservice.service;
+
+public class PaymentServiceImpl {
+
+}

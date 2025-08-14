@@ -1,0 +1,13 @@
+package com.subscriber.planservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PlanServiceProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PlanServiceApplication.class, args);
+	}
+
+}

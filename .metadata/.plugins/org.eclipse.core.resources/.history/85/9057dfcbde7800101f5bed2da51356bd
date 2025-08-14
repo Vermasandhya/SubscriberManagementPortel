@@ -1,0 +1,5 @@
+package com.subscriber.subscriptionsauditservice.repository;
+
+public interface SubscriptionAuditRepository {
+
+}

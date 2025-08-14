@@ -1,0 +1,5 @@
+package com.subscriber.planservice.service;
+
+public interface PlanService {
+
+}

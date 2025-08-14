@@ -1,0 +1,5 @@
+package com.subscriber.subscriptionservice.repository;
+
+public interface SubscriptionRepository {
+
+}
